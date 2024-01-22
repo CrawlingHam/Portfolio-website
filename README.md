@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-          >>>>>>>>>>>>>>>>>>>>>>>>>>> English <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<:
+      #    >>>>>>>>>>>>>>>>>>>>>>>>>>> English <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<:
 
 # Portfolio Website
 
@@ -28,7 +28,7 @@ Buisness websites with (preliminary):
 - GraphQL + Apollo Server (for management of user catalogue and purchases)
 
 
-          >>>>>>>>>>>>>>>>>>>>>>>>>>> Svenska <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+        #  >>>>>>>>>>>>>>>>>>>>>>>>>>> Svenska <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 # Portfoliohemsida
 
 En webbplats för att lagra och spara alla mina portföljprojekt samt all annan information om mitt professionella arbete.
