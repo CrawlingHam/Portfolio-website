@@ -50,8 +50,8 @@ Frontend:
 - Tailwind CSS                                   
 - Typescript                                        
 
-Backend (Not finished yet):
-- MySql (database)
+Backend (ej klar):
+- MySql (databas)
 - Node.js + NestJS
 
 
