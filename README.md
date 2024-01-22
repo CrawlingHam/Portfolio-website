@@ -1,6 +1,5 @@
-# React + TypeScript + Vite
 
-# English <<<<<<<<<<<<<<<<<<<<<<<
+# English 
 
 # Portfolio Website
 
@@ -37,7 +36,7 @@ Buisness websites with (preliminary):
 
 ____________________________________________________________________________________________________________________
 
-# SVENSKA      <<<<<<<<<<<<<<<
+# SVENSKA    
 
 # Portfoliohemsida
 
