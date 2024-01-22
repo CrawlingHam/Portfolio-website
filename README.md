@@ -1,30 +1,55 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+          >>>>>>>>>>>>>>>>>>>>>>>>>>> English <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<:
 
-Currently, two official plugins are available:
+# Portfolio Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A website to store my portfolio projects as well as any other information about my professional work.
 
-## Expanding the ESLint configuration
+>> Tools Used:                                    
+Frontend:                                           What I have learned from building the frontend:
+- React + Vite                                      -  Development of modern web projects with React and Vite
+- Redux                                             -  Redux State management fundamentals with React (interfaces) 
+- HTML                                              -  Tailwindcss styling components for responsive designs
+- Tailwind CSS                                      -  Typescript integrated into React for static typing
+- Typescript                                        
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Backend (Not finished yet):
+- MySql (database)
+- Node.js + NestJS 
 
-- Configure the top-level `parserOptions` property like this:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+# Future implementations in projects section:
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Buisness websites with (preliminary): 
+- Auth0 for authentication
+- Stripe for payments
+- TypeOrm (to interact with the database)
+- GraphQL + Apollo Server (for management of user catalogue and purchases)
+
+
+          >>>>>>>>>>>>>>>>>>>>>>>>>>> Svenska <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+# Portfoliohemsida
+
+En webbplats för att lagra och spara alla mina portföljprojekt samt all annan information om mitt professionella arbete.
+
+>> Verktyg som användes:
+Frontend:                                           Vad jag har lärt mig av att bygga frontenden:
+- React + Vite                                      - Utveckling av moderna webbprojekt med React och Vite
+- Redux                                             - Redux Grundläggande tillståndshantering med React 
+- HTML                                              - Tailwindcss stylingkomponenter för responsiv design
+- Tailwind CSS                                      - Typescript integrerat i React för statisk typning
+- Typescript                                        
+
+Backend (Not finished yet):
+- MySql (database)
+- Node.js + NestJS
+
+                           
+# Framtida implementeringar i projektsektionen:
+                           
+Affärswebbplatser med (preliminärt):
+- Auth0 för autentisering
+- Stripe för betalningar
+- TypeOrm (för att interagera med databasen)
+- GraphQL + Apollo Server (för hantering av användarkatalog och inköp)
