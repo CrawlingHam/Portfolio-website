@@ -1,22 +1,30 @@
 # React + TypeScript + Vite
 
-      #    >>>>>>>>>>>>>>>>>>>>>>>>>>> English <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<:
+>>>>>>>>>>>>>>>>>> # English <<<<<<<<<<<<<<<<<<<<<<<
 
 # Portfolio Website
 
 A website to store my portfolio projects as well as any other information about my professional work.
 
->> Tools Used:                                    
-Frontend:                                           What I have learned from building the frontend:
-- React + Vite                                      -  Development of modern web projects with React and Vite
-- Redux                                             -  Redux State management fundamentals with React (interfaces) 
-- HTML                                              -  Tailwindcss styling components for responsive designs
-- Tailwind CSS                                      -  Typescript integrated into React for static typing
+# Tools Used:                                    
+Frontend:                                           
+- React + Vite                                      
+- Redux                                             
+- HTML                                              
+- Tailwind CSS                                  
 - Typescript                                        
 
 Backend (Not finished yet):
 - MySql (database)
 - Node.js + NestJS 
+
+
+# What I have learned from building the frontend:
+
+-  Development of modern web projects with React and Vite
+-  Redux State management fundamentals with React (interfaces) 
+-  Tailwindcss styling components for responsive designs
+-  Typescript integrated into React for static typing
 
 
 # Future implementations in projects section:
@@ -28,24 +36,32 @@ Buisness websites with (preliminary):
 - GraphQL + Apollo Server (for management of user catalogue and purchases)
 
 
-        #  >>>>>>>>>>>>>>>>>>>>>>>>>>> Svenska <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>  # SVENSKA      <<<<<<<<<<<<<<<
+
 # Portfoliohemsida
 
 En webbplats för att lagra och spara alla mina portföljprojekt samt all annan information om mitt professionella arbete.
 
->> Verktyg som användes:
-Frontend:                                           Vad jag har lärt mig av att bygga frontenden:
-- React + Vite                                      - Utveckling av moderna webbprojekt med React och Vite
-- Redux                                             - Redux Grundläggande tillståndshantering med React 
-- HTML                                              - Tailwindcss stylingkomponenter för responsiv design
-- Tailwind CSS                                      - Typescript integrerat i React för statisk typning
+# Verktyg som användes:
+Frontend:                                    
+- React + Vite                                     
+- Redux                                           
+- HTML                                            
+- Tailwind CSS                                   
 - Typescript                                        
 
 Backend (Not finished yet):
 - MySql (database)
 - Node.js + NestJS
 
-                           
+
+# Vad jag har lärt mig av att bygga frontenden:
+- Utveckling av moderna webbprojekt med React och Vite
+- Redux Grundläggande tillståndshantering med React 
+- Tailwindcss stylingkomponenter för responsiv design
+- Typescript integrerat i React för statisk typning
+
+
 # Framtida implementeringar i projektsektionen:
                            
 Affärswebbplatser med (preliminärt):
