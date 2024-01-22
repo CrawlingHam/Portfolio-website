@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
->>>>>>>>>>>>>>>>>> # English <<<<<<<<<<<<<<<<<<<<<<<
+# English <<<<<<<<<<<<<<<<<<<<<<<
 
 # Portfolio Website
 
@@ -35,8 +35,9 @@ Buisness websites with (preliminary):
 - TypeOrm (to interact with the database)
 - GraphQL + Apollo Server (for management of user catalogue and purchases)
 
+____________________________________________________________________________________________________________________
 
->>>>>>>>>>>>>>  # SVENSKA      <<<<<<<<<<<<<<<
+# SVENSKA      <<<<<<<<<<<<<<<
 
 # Portfoliohemsida
 
